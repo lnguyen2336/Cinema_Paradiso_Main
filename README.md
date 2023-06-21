@@ -11,6 +11,8 @@ Cinema Paradiso, with a frontend built in React & Redux and a backend built in D
 
 Check out [FRONTEND LIVE DEMO](https://cinema-paradise-frontend.emanueltutson.repl.co/) here!!
 
+Check out [BACKEND LIVE DEMO](https://cinemabackend.lnguyen2336.repl.co/) here!!
+
 
 
 ## Tech used
